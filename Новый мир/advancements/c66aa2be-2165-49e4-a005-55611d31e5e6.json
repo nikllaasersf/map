@@ -1,0 +1,20 @@
+{
+  "chiseled_me:the_limit": {
+    "criteria": {
+      "stuff": "2022-08-23 14:08:46 +0300"
+    },
+    "done": true
+  },
+  "chiseled_me:big_stairs": {
+    "criteria": {
+      "stuff": "2022-08-23 14:08:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "extreme_hills": "2022-08-23 14:02:01 +0300"
+    },
+    "done": false
+  }
+}
